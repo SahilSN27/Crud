@@ -1,0 +1,42 @@
+.app{
+    height: 100vh;
+    width: auto;
+    
+  }
+  
+  .app nav{
+  
+    height: 100px;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+  
+  }
+  
+  .app nav button
+  {
+    height: 35px;
+    width: 100px;
+    background: orange;
+    font-size: 15px;
+    border-radius: 50px;
+    
+  }
+  
+  table{
+    width: 70%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: white;
+    margin-top: 10px;
+  }
+  
+  thead tr{
+    height: 50px;
+    text-align: left;
+  }
+
